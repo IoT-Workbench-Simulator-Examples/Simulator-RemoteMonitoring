@@ -1,7 +1,7 @@
 {
   "name": "iot-workbench-simulator-remote-monitoring",
   "version": "0.1.0",
-  "main": "remote-monitoring.js",
+  "main": "remote_monitoring.js",
   "dependencies": {
     "azure-iot-device": "1.7.0",
     "azure-iot-device-amqp": "1.7.0",
