@@ -14,7 +14,7 @@
                 "Equal" : "40km/h"
             }
         },
-        "Content" : "The current temperture is ${Temperture}, the current humidity is ${Humidity}, and the wind speed is ${40km/h}",
+        "Content" : "The current temperture is {{Temperture}} degree, the current humidity is {{Humidity}}, and the wind speed is {{Wind}}",
         "Interval" : 2000
     }
 }
